@@ -1,5 +1,5 @@
 country = "Bangladesh"
 city = "Dhaka"
-Address1 = "Khilgaon, Dhaka"
+Address1 = "Goran Bazar, Dhaka"
 pos_code = "1219"
-phn_num = "01876006208"
+phn_num = "01851547855"
